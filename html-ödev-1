@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakkımda</title>
+</head>
+<body>
+    <h1>MERT AZKO</h1>     <!--  başlık kısmı -->
+    <h3>Hakkımda</h3><!--  altbaşlık kısmı -->
+    <p>Merhaba ben mert adanada yaşıyorum eski yüzücüyüm şuanda babamla beraber serbest dalış yapıyorum hobi olarak patika dev sayesinde 
+    web geliştirme öğreniyorum  </p><!--  açıklama -->
+    <p>Uluslarası Ticaret ve Lojistik mezunuyum gelceğin dünyası olan yazılım dünyasında treni kaçırmadan bende yerimi almak istiyorum</p>
+    <h2>Hobilerim</h2>
+    <h3>YÜZME</h3>
+    <p>Yıllarca profesyonel olarak yüzücülük yaptım artık sadece serbest dalış yapıyorum</p>
+    <h3>Oyun oynama</h3>
+    <p>Rekabetçi oyunların hastasıyım ve hikaye tabanlı oyunları oynama bayılıyorum sevdiğim oyunlar ise </p>
+    <ul>
+        <li><p>Wither 3 </p></li>
+        <li><p>Red Dead Redemption 2</p></li>
+        <li><p>Squad</p></li>
+        <li><p>League of Legends</p></li>
+        
+    </ul>
+    <p><b>Diyeceklerim bu kadar patika ödevimi başarıyla yaptım sanırım :D</b></p>
+</body>
+</html>
