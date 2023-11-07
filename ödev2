@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakkımda</title>
+</head>
+
+<body>
+    <h1>MERT AZKO</h1>
+    <hr> <!--  başlık kısmı -->
+<div><!-- Hakkımda    -->
+    <h3>Hakkımda</h3><!--  altbaşlık kısmı -->
+    <p>Merhaba ben mert adanada yaşıyorum eski yüzücüyüm şuanda babamla beraber serbest dalış yapıyorum hobi olarak
+        patika dev sayesinde
+        web geliştirme öğreniyorum </p><!--  açıklama -->
+    <p>Uluslarası Ticaret ve Lojistik mezunuyum gelceğin dünyası olan yazılım dünyasında treni kaçırmadan bende yerimi
+        almak istiyorum</p>
+</div>
+<div>  <!--  Hobilerim    -->
+    <h2>Hobilerim</h2>
+    <hr>
+    <h3>YÜZME</h3>
+    <p>Yıllarca profesyonel olarak yüzücülük yaptım artık sadece serbest dalış yapıyorum</p>
+    <h3>Oyun oynama</h3>
+    <p>Rekabetçi oyunların hastasıyım ve hikaye tabanlı oyunları oynama bayılıyorum sevdiğim oyunlar ise </p>
+    <ul>
+        <li>
+            <a href="https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/" target="_blank">
+            <p>Wither 3 </p>
+            </a>
+            <img src="https://gmedia.playstation.com/is/image/SIEPDC/the-witcher-3-hero-banner-desktop-01-en-12dec22?$1200px$"
+                width="70%" alt="wither3">
+                <p>Hikaye oyunlarında açık ara en sevdiğim oyun bu hikayesi ve bu evrenine diyecek lafım yok <br>
+                dizisinden çok ve çok daha kaliteli bi hikaye sunumuna ve anlatımına sahip</p>
+        </li>
+        <li>
+            <a href="https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/" target="_blank">
+            <p>Red Dead Redemption 2</p>
+            </a>
+            <img src="https://gmedia.playstation.com/is/image/SIEPDC/red-dead-redemption-2-hero-01-ps4-en-28jul20?$1200px$"
+                width="70%" alt="RDR2">
+            <p>Bu oyuna diyecek laf yok zaten 2018 oyunu olarak şimdiki oyunlardan bile teknolojik olarak çok önde <br>
+            GTA 5'in  vahşi batı versiyonu diyebilirim</p>
+        </li>
+        <li>
+            <a href="https://store.steampowered.com/app/393380/Squad/" target="_blank">
+            <p>Squad</p>
+            </a>
+            <img src="https://www.offworldindustries.com/wp-content/uploads/2019/01/websiteSQUAD.jpg" width="70%"
+                alt="Squad">
+            <p>Askeri similasyon olarak en çok vakit geçirdiğim oyun şuana kadar bu  </p>
+        </li>
+        <li>
+            <a href="https://www.leagueoflegends.com/tr-tr/" target="_blank">
+            <p>League of Legends</p>
+            </a>
+            <img src="https://go.skimresources.com/?id=87431X1540977&isjs=1&jv=15.4.2-stackpath&sref=https%3A%2F%2Fwww.eurogamer.pt%2Fleague-of-legends-requisitos-minimos-lol&url=https%3A%2F%2Fassetsio.reedpopcdn.com%2Fleague-of-legends-requisitos-minimos-lol-1626456007951.jpg%3Fwidth%3D1920%26height%3D1920%26fit%3Dbounds%26quality%3D80%26format%3Djpg%26auto%3Dwebp&xs=1&xtz=-180&xuuid=87418b2d5e3f8a11ec7fd7ebaee72b77&xjsf=other_click__auxclick%20%5B2%5D"
+                width="70%" alt="LOL">
+            <p>Malessef ki en çok zaman harcadığım oyun bu oldu artık oynamıyorum ama ömrümden bi kısım aldı diyebilirim :D</p>
+        </li>
+
+    </ul>
+    <p><b>Diyeceklerim bu kadar patika ödevimi başarıyla yaptım sanırım :D</b></p>
+</div>  
+</body>
+
+</html>
