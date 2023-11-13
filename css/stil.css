@@ -1,0 +1,30 @@
+/* yorum satırı css için böyle*/ 
+.giriş-orta{
+ text-align: center;
+} 
+.yanyana{
+    text-align: justify;
+    text-align: center;
+    
+    
+}
+
+img {
+    width: 500px;
+    height: 400px;
+}
+
+.a {
+    text-align: center;
+
+}
+.b{
+    display: inline-block;
+    text-align: left;
+}
+.metin{
+    font-size: 20px;
+    font-style: italic;
+}
+
+/* link yoluyla html dosyasındaki head kısmına lnikşyecen 
